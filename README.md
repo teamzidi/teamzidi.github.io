@@ -1,2 +1,1 @@
-# zidi.dev
-web site
+# Hello, zidi.dev
