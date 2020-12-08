@@ -1,0 +1,2 @@
+# zidi.dev
+web site
