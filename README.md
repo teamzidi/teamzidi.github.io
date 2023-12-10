@@ -1,6 +1,1 @@
-# Hello, zidi.dev
-
-
-shiozee
-
-dictav
+shiozee&dictav
