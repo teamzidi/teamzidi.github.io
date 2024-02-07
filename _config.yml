@@ -1,4 +1,9 @@
 theme: jekyll-theme-hacker
+#remote_theme: CloudCannon/hydra-jekyll-template
+#remote_theme: mmistakes/minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
+#remote_theme: "jeffreytse/jekyll-theme-yat"
+#theme: minima
 
-title: 株式会社ZiDi
-description: Hi
+title: ZiDi
+description: 技術で人生を楽しく
